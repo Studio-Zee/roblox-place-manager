@@ -90,7 +90,7 @@ node --version
 Clone o repositório:
 
 ```bash
-git clone https://github.com/SEU-USUARIO/roblox-place-manager.git
+git clone https://github.com/Studio-Zee/roblox-place-manager.git
 ```
 
 Entre na pasta:
